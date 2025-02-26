@@ -19,7 +19,7 @@
 
 ## Hướng dẫn cài đặt
 
-1. Clone dự án về máy:
+1.Clone dự án về máy:
 git clone https://github.com/qguxxi/website
 
 2.Cài Đặt Các Gói Phụ Thuộc
