@@ -1,6 +1,10 @@
+# Link repository : https://github.com/qguxxi/website
+
+# Link repository : [https://github.com/qguxxi/website](http://localhost:8000/)
+
 # Quản lý Sinh viên - Dự án CRUD dùng PHP và Laravel
 
-Đây là ứng dụng web quản lý sinh viên đơn giản, dùng PHP và Laravel để thực hiện các chức năng CRUD: thêm, xem, sửa, xóa.
+Đây là ứng dụng web quản lý sinh viên  dùng PHP và Laravel để thực hiện các chức năng CRUD: thêm, xem, sửa, xóa.
 
 ## Tính năng
 
